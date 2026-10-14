@@ -4,4 +4,7 @@ python-multipart
 joblib
 numpy
 librosa
-scikit-learn
+soundfile
+scikit-learn==1.6.1
+httpx
+PyJWT
